@@ -1,4 +1,11 @@
+body {
+  background-image: url("/public/bgwa.avif");
+  background-size: cover;
+  background-position: center;
+}
+
 .container {
   max-width: 1080px;
   margin: 20px auto;
+  background: rgba(255, 255, 255, 0.5); /* white background with 80% opacity */
 }
