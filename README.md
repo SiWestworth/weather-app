@@ -1,3 +1,13 @@
+# About The Application
+
+This application is a Discover real-time weather updates with our React weather app, built using Free Code Camp tutorials. Seamlessly integrating multiple APIs, it provides accurate location and weather data instantly. Stay informed and plan ahead effortlessly.". It was developed following a tutorial from FreeCodeCamp on YouTube. The tutorial provided a comprehensive guide on how to use Create React App to bootstrap the project, and how to implement the core functionalities.
+
+The application is built with React, a popular JavaScript library for building user interfaces, particularly single page applications. It uses npm scripts for managing the lifecycle of the application, such as starting the development server, running tests, and building the production version of the application.
+
+# Acknowledgements
+
+This project was made possible by following a tutorial from [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) on YouTube. Their content provides a great resource for learning programming and web development skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
